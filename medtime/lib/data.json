@@ -1,0 +1,21 @@
+{
+    "email" : "gratia.nindya@gmail.com",
+    "history": [
+        {
+            "name":"Sanmol",
+            "before_meal":false,
+            "schedule": [
+                "08:00:00",
+                "12:00:00"
+            ]
+        },
+        {
+            "name":"Promag",
+            "before_meal":true,
+            "schedule": [
+                "08:00:00",
+                "12:00:00"
+            ]
+        }
+    ]
+}
